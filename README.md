@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Diksha Malik 👋
 
 <!--
 **diksha-012/diksha-012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
